@@ -1,5 +1,4 @@
 # Anime-Face-Generation
-Anime Character creation using StyleGan.
 #Problem Statement
 Anime is becoming increasingly popular in the current world, and people are more interested in learning about it than before. These anime characters are being used in a variety of daily life fields, including education, advertising, etc., to stay current with needs and trends. As more clients began their hunt for a professional artist to create a new face, there was a corresponding increase in the requirement for advanced technology. However, it takes a lot of time and is frequently ineffective. To address this issue and optimize the character generation process, the proposed system will use a Deep Learning solution known as StyleGAN. This system guarantees to save the company’s time in finding a professional artist and creating a new anime face. 
 
