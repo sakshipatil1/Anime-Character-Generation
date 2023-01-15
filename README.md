@@ -9,4 +9,4 @@ The project's goal is to create anime faces from information that is provided in
 #Algorithms Used :
 • EDA 
 • Preprocessing
-• StyleGan (Discriminator|Loss function|Generator)
+• StyleGAN (Discriminator|Loss function|Generator)
